@@ -1,4 +1,6 @@
-# vue-todom
+# vue-todo
+
+- Autoral
 
 ## Project setup
 ```
